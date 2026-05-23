@@ -1,0 +1,74 @@
+{
+  "milestones": [
+    {
+      "code": "M01",
+      "title": "Familiarize with industry standards and best practices",
+      "salary_tier": "0 - 2 LPA → 3 LPA",
+      "unlock_statement": "Improve your coding skills and participate in hackathons to gain industry experience.",
+      "blur_level": 0,
+      "scenario_count": 10,
+      "assessment_count": 5,
+      "mock_interview_count": 2
+    },
+    {
+      "code": "M02",
+      "title": "Develop a personal project with a scalable architecture",
+      "salary_tier": "3 LPA → 5 LPA",
+      "unlock_statement": "Build a project that showcases your skills and gets you an internship.",
+      "blur_level": 0,
+      "scenario_count": 15,
+      "assessment_count": 7,
+      "mock_interview_count": 3
+    },
+    {
+      "code": "M03",
+      "title": "Get an internship in AI or Data Science",
+      "salary_tier": "5 LPA → 8 LPA",
+      "unlock_statement": "Network with professionals and highlight your project experience to get an internship.",
+      "blur_level": 1,
+      "scenario_count": 20,
+      "assessment_count": 10,
+      "mock_interview_count": 5
+    },
+    {
+      "code": "M04",
+      "title": "Complete a Data Science or Machine Learning certification",
+      "salary_tier": "8 LPA → 10 LPA",
+      "unlock_statement": "Enhance your skills with a certification and increase your chances of getting hired.",
+      "blur_level": 2,
+      "scenario_count": 25,
+      "assessment_count": 12,
+      "mock_interview_count": 7
+    },
+    {
+      "code": "M05",
+      "title": "Gain experience with deep learning frameworks",
+      "salary_tier": "10 LPA → 15 LPA",
+      "unlock_statement": "Develop expertise in popular frameworks like TensorFlow or PyTorch.",
+      "blur_level": 3,
+      "scenario_count": 30,
+      "assessment_count": 15,
+      "mock_interview_count": 10
+    },
+    {
+      "code": "M06",
+      "title": "Develop a robust AI/ML pipeline",
+      "salary_tier": "15 LPA → 20 LPA",
+      "unlock_statement": "Create a scalable pipeline that can handle large datasets and high-dimensional data.",
+      "blur_level": 3,
+      "scenario_count": 35,
+      "assessment_count": 18,
+      "mock_interview_count": 12
+    },
+    {
+      "code": "M07",
+      "title": "Land a job as an AI Engineer",
+      "salary_tier": "20 LPA → 25 LPA",
+      "unlock_statement": "Network with professionals and customize your resume to showcase your skills.",
+      "blur_level": 3,
+      "scenario_count": 40,
+      "assessment_count": 20,
+      "mock_interview_count": 15
+    }
+  ]
+}

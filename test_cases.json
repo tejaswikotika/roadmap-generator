@@ -1,0 +1,12 @@
+[
+  {"icp_type": "high_wage", "language": "en", "target_role": "AI Engineer"},
+  {"icp_type": "high_wage", "language": "hi", "target_role": "AI Engineer"},
+  {"icp_type": "low_wage", "language": "en"},
+  {"icp_type": "low_wage", "language": "hi"},
+  {"icp_type": "high_wage", "urgency_months": 3},
+  {"icp_type": "low_wage", "urgency_months": 2},
+  {"icp_type": "high_wage", "skills": ["Python"]},
+  {"icp_type": "low_wage", "skills": ["Excel"]},
+  {"icp_type": "high_wage", "current_role": "student"},
+  {"icp_type": "low_wage", "current_role": "delivery partner"}
+]
